@@ -2,6 +2,9 @@
 
 Este é um projeto de simulador de máquina de estados em Java para uma loja de carros fictícia. O simulador permite que os usuários explorem uma lista de carros, vejam detalhes dos carros, negociem a compra e concluam a compra.
 
+**Este projeto foi criado com o foco principal no aprendizado de conceitos de lógica de programação e máquina de estados.**
+
+
 ## Instruções de Execução
 
 1. Certifique-se de ter o JDK (Kit de Desenvolvimento Java) instalado em seu sistema.
@@ -29,3 +32,5 @@ Este projeto serve como um ponto de partida para entender os conceitos de máqui
 
 # Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests para aprimorar o projeto.
+
+
